@@ -14,7 +14,7 @@ public Menulist3(String subject) {
 this.subject = subject;
 }
 public void study(){
-System.out.println("สินค้าสุดฮิตในช่วงนี้");}
+System.out.println("");}
 public void print(){
 System.out.println("บริษัท บีทูเอช จำกัด ยินดีบริการ");
 
